@@ -1,0 +1,28 @@
+#include<string>
+int sum(int a, int b)
+{ 
+int tmp = 0; 
+tmp = a + b; 
+return tmp; 
+} 
+int main() 
+{ 
+//dasddad
+1.265   1.326E03;  26E32;
+int a = 0010; 
+'b'  '\n'
+int c=0+1; 
+0x1fe543;
+015613;
+/*注释测试
+**********
+*********
+注释测试
+*/
+int b = 20; 
+string c="teststring";
+float d=1;
+int ret = 0; 
+ret = sum(a,b); 
+return 0; 
+}

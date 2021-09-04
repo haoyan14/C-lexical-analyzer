@@ -1,0 +1,18 @@
+#include<string>
+
+int main() 
+{
+string c="ssss //此处应输出报错信息.
+int a =1;
+float b=1.7;
+b=1.ab; //此处应输出报错信息
+char c='aa';//此处应输出报错信息
+
+int 1abc;//此处应输出报错信息
+int sum=a+b;
+int d=080;//此处应输出报错信息
+
+int f=0x123abch;//此处应输出报错信息
+1.3Eab;// 此处应输出报错信息
+
+}
